@@ -1,0 +1,13 @@
+1. brew install neovim
+2. alias vi=nvim and alias vim=nvim
+3. echo 'alias vi=nvim' >> .zshrc and the same for vim
+4. download from 'nerdfonts.com' the jetbrainsMono Nerd font and set it as the terminal font
+5. git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+6. space+T+H to open theme select menu
+7. :TSInstall 'language name' for syntax highlighting
+8. ctrl+n to open file tree
+9. m key marks a file on the tree and 'a' creates a new file, c for copy, p to paste, r to rename, ...
+10.space+f+f to find files, spc+f+b to search in the opened files  
+11.SPACE+C+H to open the cheatsheet
+12. :vsp or :sp to split screen, tab or shift+tab to navigate tabs, space+x to close tabs
+13. space + v or h ro open shell vertically or horizantaly
